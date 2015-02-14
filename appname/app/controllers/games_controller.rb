@@ -5,4 +5,7 @@ class GamesController < ApplicationController
     title = "hello"
   end
   
+  def inventory
+    
+  end
 end
