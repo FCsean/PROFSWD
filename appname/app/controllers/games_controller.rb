@@ -2,7 +2,7 @@ class GamesController < ApplicationController
 
 	
   def connect4
-    title = "hello"
+    @title = "hello"
   end
   
   def inventory
